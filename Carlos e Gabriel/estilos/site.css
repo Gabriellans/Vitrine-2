@@ -117,6 +117,8 @@ main{
     float: right;
     box-sizing: border-box;
     border-left: 10px solid black;
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
 }
 
 .minha-foto{
